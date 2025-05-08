@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-/*-------->>>>> NETLLIFY : https://pg-portal.netlify.app/home  <<<---------- */
+/*-------->>>>> NETLLIFY : https://pg-portal.netlify.app/  <<<---------- */
