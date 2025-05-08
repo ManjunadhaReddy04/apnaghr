@@ -1,7 +1,7 @@
 # React + Vite
 
 
------>>>>>  DEPLOYED IN NETLIFY : https://pg-portal.netlify.app/home <<<<<--------
+----->>>>>  DEPLOYED IN NETLIFY : https://pg-portal.netlify.app/ <<<<<--------
 
 
 
